@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Loaner Requests" max_length="40" name="x_cdltd_loaner_req_loaner" sizeclass="0" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="BranchId" max_length="40" name="branchid" type="string"/>
+        <element label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb" type="reference"/>
+        <element choice="1" default="40" label="Depot" max_length="40" name="depot" type="choice">
+            <choice/>
+        </element>
+        <element default="40" label="Description" max_length="40" name="description" type="string"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element choice="1" default="40" label="Item Type" max_length="40" name="item_type" type="choice">
+            <choice/>
+        </element>
+        <element default="40" label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element default="40" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element choice="1" default="40" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index2">
+            <element name="configuration_item"/>
+        </index>
+        <index name="index3">
+            <element name="requested_for"/>
+        </index>
+        <index name="index4">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

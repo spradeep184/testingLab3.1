@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Loaner tasks" max_length="40" name="x_cdltd_loaner_req_loaner_tasks" sizeclass="0" type="collection">
+        <element label="Additional comment" max_length="40" name="additional_comment" type="string"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_cdltd_loaner_req_loaner" type="reference"/>
+        <element choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice/>
+        </element>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
