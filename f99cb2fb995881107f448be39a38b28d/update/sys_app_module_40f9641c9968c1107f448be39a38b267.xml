@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Loaner Request">242d3abf995881107f448be39a38b2b8</application>
+        <application display_value="test">84f9641c9968c1107f448be39a38b263</application>
         <assessment/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>tests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaner_req_loaner</name>
-        <order>400</order>
+        <name>x_cdltd_loaner_req_test</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_cdltd_loaner_req.x_cdltd_loaner_req.loaner_request_user</roles>
+        <roles>x_cdltd_loaner_req.test_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-12-15 11:22:19</sys_created_on>
+        <sys_created_on>2021-12-16 13:56:11</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>202d3abf995881107f448be39a38b2bf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>40f9641c9968c1107f448be39a38b267</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f99cb2fb995881107f448be39a38b28d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">f99cb2fb995881107f448be39a38b28d</sys_scope>
-        <sys_update_name>sys_app_module_202d3abf995881107f448be39a38b2bf</sys_update_name>
+        <sys_update_name>sys_app_module_40f9641c9968c1107f448be39a38b267</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-16 14:41:41</sys_updated_on>
+        <sys_updated_on>2021-12-16 13:56:11</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>tests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
