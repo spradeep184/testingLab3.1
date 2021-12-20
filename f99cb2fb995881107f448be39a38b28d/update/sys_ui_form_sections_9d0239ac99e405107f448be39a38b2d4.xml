@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9d0239ac99e405107f448be39a38b2d4" sys_domain="global" table="x_cdltd_loaner_req_loaner" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>690239ac99e405107f448be39a38b2d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_loaner_req_loaner" name="x_cdltd_loaner_req_loaner" sys_domain="global" view="c8dce161fc2130107f44b81bb6d7cd50">9d0239ac99e405107f448be39a38b2d4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner" sys_domain="global" view="c8dce161fc2130107f44b81bb6d7cd50">510239ac99e405107f448be39a38b2d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:49:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_cdltd_loaner_req_loaner</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d0239ac99e405107f448be39a38b2d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_req_loaner</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f99cb2fb995881107f448be39a38b28d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">f99cb2fb995881107f448be39a38b28d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9d0239ac99e405107f448be39a38b2d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:49:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">c8dce161fc2130107f44b81bb6d7cd50</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

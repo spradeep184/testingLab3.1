@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_cdltd_loaner_req_loaner" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>depot</element>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_id>8f4ba96899e405107f448be39a38b2b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>depot</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f99cb2fb995881107f448be39a38b28d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">f99cb2fb995881107f448be39a38b28d</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_depot</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>474ba96899e405107f448be39a38b2b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>new york</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c34ba96899e405107f448be39a38b2b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buenos Aires</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>474ba96899e405107f448be39a38b2b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>buenos aires</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Santa Clara</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c74ba96899e405107f448be39a38b2b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>santa clara</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b4ba96899e405107f448be39a38b2b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb4ba96899e405107f448be39a38b2b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-17 13:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f4ba96899e405107f448be39a38b2b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-17 13:20:13</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
