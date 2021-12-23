@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>95762a92286449107f4492498bc4394c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_cdltd_loaner_req_loaner">
+    <x_cdltd_loaner_req_loaner action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <assignment_group/>
+        <branchid/>
+        <configuration_item/>
+        <depot>santa clara</depot>
+        <description>40</description>
+        <end_date/>
+        <item_type>cmdb_ci_mobile_device</item_type>
+        <location_to_be_used/>
+        <number>LOA0001001</number>
+        <other/>
+        <requested_for display_value="Abel Tuter (architect)">62826bf03710200044e0bfc8bcbe5df1</requested_for>
+        <short_description>40</short_description>
+        <start_date/>
+        <state>13</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-23 04:08:21</sys_created_on>
+        <sys_id>95762a92286449107f4492498bc4394c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-23 04:08:21</sys_updated_on>
+    </x_cdltd_loaner_req_loaner>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-23 10:24:58</sys_created_on>
+        <sys_id>2abc3392286849107f4492498bc4397c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOA0001001</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f99cb2fb995881107f448be39a38b28d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">f99cb2fb995881107f448be39a38b28d</sys_scope>
+        <sys_update_name>sys_metadata_link_2abc3392286849107f4492498bc4397c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-23 10:24:58</sys_updated_on>
+        <tablename>x_cdltd_loaner_req_loaner</tablename>
+    </sys_metadata_link>
+</record_update>
